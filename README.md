@@ -49,4 +49,6 @@ DELETE /produtos/:id
 
 # Tags
 
-![image](https://github.com/user-attachments/assets/6e55db78-72d1-4fd9-aebd-d2d66a5095fa)
+![image](https://github.com/user-attachments/assets/3554f9c1-c6d4-475d-a536-094521d1efde)
+
+Trabalho finalizado

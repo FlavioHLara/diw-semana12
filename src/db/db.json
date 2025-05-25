@@ -1,10 +1,16 @@
 {
   "produtos": [
     {
-      "nome": "Teclado Gamer",
-      "descricao": "Teclado mecânico atualizado",
-      "preco": 170,
-      "id": "1"
+      "nome": "Mouse",
+      "descricao": "Gamer",
+      "preco": 150,
+      "id": "3038"
+    },
+    {
+      "id": "3bc4",
+      "nome": "Teclado",
+      "descricao": "Gamer",
+      "preco": 230
     }
   ]
 }

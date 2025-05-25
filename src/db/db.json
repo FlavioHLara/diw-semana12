@@ -11,6 +11,12 @@
       "nome": "Teclado",
       "descricao": "Gamer",
       "preco": 230
+    },
+    {
+      "id": "eca8",
+      "nome": "Monitor",
+      "descricao": "Gamer",
+      "preco": 950
     }
   ]
 }

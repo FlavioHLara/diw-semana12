@@ -1,0 +1,10 @@
+{
+  "produtos": [
+    {
+      "nome": "Teclado Gamer",
+      "descricao": "Teclado mecânico atualizado",
+      "preco": 170,
+      "id": "1"
+    }
+  ]
+}
